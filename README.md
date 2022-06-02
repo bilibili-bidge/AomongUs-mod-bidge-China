@@ -1,1 +1,1 @@
-# AomongUs-mod-bidge-China
+# Aomong Us-mod-关注bilibilibidge-China
