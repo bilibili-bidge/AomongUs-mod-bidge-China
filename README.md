@@ -5,7 +5,16 @@
  
  
 我比较支持的las（Las.Monjas）版本 有以下的
+
+
+
+
    2.0.0 下载地址
    *https://github.com/KiraYamato94/LasMonjas/releases/download/2.0/Las.Monjas.2.0.zip* （大约82.2M，挺大的）
+
+
+
+
    1.5.0 下载地址
-   *https://github.com/KiraYamato94/LasMonjas/releases/download/1.5.0/Las.Monjas.1.5.0.zip* (大约
+   *https://github.com/KiraYamato94/LasMonjas/releases/download/1.5.0/Las.Monjas.1.5.0.zip* (大约123 MB，更大了）
+   
