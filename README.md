@@ -24,3 +24,14 @@
 
 
 例如  僵尸实验室、烫手之竽、山丘之王 等等（个人称呼，不要在意）
+
+
+
+
+
+
+
+第二个 TheOtherRoles（诸神之战）
+![image](https://user-images.githubusercontent.com/106727385/171752228-d11e7f94-441c-4644-b65f-06546029978e.png)
+
+第一个 TheOtherRoles 4.0.0 
