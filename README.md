@@ -18,3 +18,9 @@
    1.5.0 下载地址
    *https://github.com/KiraYamato94/LasMonjas/releases/download/1.5.0/Las.Monjas.1.5.0.zip* (大约123 MB，更大了）
    
+里面有详细的东西 （可能没有汉化） 里面的不止有 普通诸神之战（las的） 还有许多小游戏 
+
+
+
+
+例如  僵尸实验室、烫手之竽、山丘之王 等等（个人称呼，不要在意）
