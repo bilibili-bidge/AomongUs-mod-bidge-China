@@ -31,7 +31,47 @@
 
 
 
-第二个 TheOtherRoles（诸神之战）
+第二个 TheOtherRoles（诸神之战）支持和 潜艇地图一起玩
 ![image](https://user-images.githubusercontent.com/106727385/171752228-d11e7f94-441c-4644-b65f-06546029978e.png)
 
-第一个 TheOtherRoles 4.0.0 
+
+
+    诸神之战版本 第一个 TheOtherRoles 4.0.0 
+
+    下载地址 可以在上面找到 也可以 点击后面的网址
+
+    (https://raw.githubusercontent.com/bilibili-bidge/AomongUs-mod-bidge-China/main/TheOtherRoles4.0.0%E6%A8%A1%E7%BB%84%20bidge.zip)
+    
+    ——————————————————————————————————
+    
+    
+    
+    
+    
+    诸神之战版本 第二个 TheOtherRoles 4.1.0
+    https://github.com/Eisbison/TheOtherRoles/releases/download/v4.1.0/TheOtherRoles.zip
+    
+    ________________________________________
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
