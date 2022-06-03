@@ -21,8 +21,6 @@
 里面有详细的东西 （可能没有汉化） 里面的不止有 普通诸神之战（las的） 还有许多小游戏 
 
 
-
-
 例如  僵尸实验室、烫手之竽、山丘之王 等等（个人称呼，不要在意）
 
 
@@ -34,24 +32,26 @@
 第二个 TheOtherRoles（诸神之战）支持和 潜艇地图一起玩
 ![image](https://user-images.githubusercontent.com/106727385/171752228-d11e7f94-441c-4644-b65f-06546029978e.png)
 
+诸神之战版本 第一个 TheOtherRoles 4.0.0 
+下载地址 可以在上面找到 也可以 点击后面的网址
 
 
-    诸神之战版本 第一个 TheOtherRoles 4.0.0 
 
-    下载地址 可以在上面找到 也可以 点击后面的网址
+(https://raw.githubusercontent.com/bilibili-bidge/AomongUs-mod-bidge-China/main/TheOtherRoles4.0.0%E6%A8%A1%E7%BB%84%20bidge.zip)
+——————————————————————————————————
+    
+    
+    
+    
+    
+诸神之战版本 第二个 TheOtherRoles 4.1.0
 
-    (https://raw.githubusercontent.com/bilibili-bidge/AomongUs-mod-bidge-China/main/TheOtherRoles4.0.0%E6%A8%A1%E7%BB%84%20bidge.zip)
+
+
+
+https://github.com/Eisbison/TheOtherRoles/releases/download/v4.1.0/TheOtherRoles.zip
     
-    ——————————————————————————————————
-    
-    
-    
-    
-    
-    诸神之战版本 第二个 TheOtherRoles 4.1.0
-    https://github.com/Eisbison/TheOtherRoles/releases/download/v4.1.0/TheOtherRoles.zip
-    
-    ________________________________________
+________________________________________
     
 
 
